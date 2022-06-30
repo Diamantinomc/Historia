@@ -1,0 +1,12 @@
+* {
+ text-align: center;   
+}
+
+#info {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 2px;
+    border: solid #050 2px;
+}
