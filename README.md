@@ -1,4 +1,4 @@
-# Mi historia :tw-1f601:
+# Mi historia ðŸ’š
 Un blog incre&iacute;ble sobre mi historia para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de Platzi es lo que me hac&iacute;a falta para triplicar mi salario y lanzarme a la industria del tejido de lana sint&eacute;tica con Machine Learning
 > - niñita
