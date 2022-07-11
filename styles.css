@@ -10,3 +10,7 @@
     padding: 2px;
     border: solid #050 2px;
 }
+
+#info img {
+    width: 100%;
+}
